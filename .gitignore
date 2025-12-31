@@ -1,0 +1,11 @@
+# IDE
+.idea
+
+# Renovate runtime data/cache
+/data/
+
+# Local env file with tokens
+.env
+
+# Node artifacts just in case
+node_modules/
