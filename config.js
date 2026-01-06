@@ -20,7 +20,8 @@ module.exports = {
         "Nice3point/RevitTemplates",
         "Nice3point/Revit.Build.Tasks",
         "Nice3point/RevitUnit",
-        "Nice3point/RevitBenchmark"
+        "Nice3point/RevitBenchmark",
+        "lookup-foundation/RevitLookup"
     ],
 
     // Create an Issue with a dashboard for all updates
